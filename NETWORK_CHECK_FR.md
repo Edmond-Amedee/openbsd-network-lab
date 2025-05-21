@@ -17,7 +17,7 @@ Ce tutoriel couvre l’essentiel pour vérifier la connectivité réseau, la ré
 2. **Tester la connectivité IP**
 
    ```sh
-   ping -c 4 8.8.8.8
+   ping -c 4 1.1.1.1
    ```
 
    Des réponses réussies indiquent que le réseau de la VM et de l’hôte VMware est correctement configuré.
