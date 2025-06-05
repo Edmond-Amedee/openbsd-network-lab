@@ -135,4 +135,4 @@ Contributions and feedback are welcome! 🚀
 
 ## License
 
-This project is released under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is released under the MIT License. See the [LICENSE](../LICENSE) file for details.
