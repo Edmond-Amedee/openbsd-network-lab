@@ -101,7 +101,7 @@ doas ls /
 Toujours sous `admin`, exécutez ces commandes :
 
 ```sh
-syspatch
+doas syspatch
 ```
 
 ---

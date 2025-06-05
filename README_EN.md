@@ -87,9 +87,9 @@ doas ls /
 ### Update system
 
 ```
-syspatch
-pkg_add mozilla-rootcerts
-mozilla-rootcerts install
+doas syspatch
+doas pkg_add mozilla-rootcerts
+doas mozilla-rootcerts install
 ```
 
 ---
