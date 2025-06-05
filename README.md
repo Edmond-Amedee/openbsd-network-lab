@@ -104,6 +104,8 @@ Toujours sous `admin`, exécutez ces commandes :
 
 ```sh
 syspatch
+pkg_add mozilla-rootcerts
+mozilla-rootcerts install
 ```
 
 ---
