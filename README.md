@@ -150,3 +150,7 @@ Vous devriez voir s’afficher : `Status: Enabled`.
 ---
 
 **Toutes contributions et retours sont les bienvenus ! 🚀**
+
+## Licence
+
+Ce projet est distribué sous la licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.

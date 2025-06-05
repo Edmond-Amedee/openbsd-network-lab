@@ -132,3 +132,7 @@ You should see: `Status: Enabled`.
 Congratulations! Your OpenBSD VM is now ready to use. This README provides a solid foundation for beginners. Additional guides will be available soon for advanced setups like eBPF, analysis tools, IDS, and sandboxing.
 
 Contributions and feedback are welcome! 🚀
+
+## License
+
+This project is released under the MIT License. See the [LICENSE](LICENSE) file for details.
