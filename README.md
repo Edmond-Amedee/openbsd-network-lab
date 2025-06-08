@@ -24,6 +24,15 @@ Ce dépôt fournit un environnement OpenBSD prêt à l'emploi pour tester la sé
 - [Architecture Overview](docs/architecture.md)
 - [Aperçu de l'architecture](docs/fr/ARCHITECTURE_FR.md)
 
+## Usage rapide
+
+Un script `manage.sh` est fourni à la racine du projet pour simplifier certaines actions.
+Pour installer un jail Alpine, exécutez :
+
+```sh
+./manage.sh create-alpine-jail
+```
+
 ## Licence
 
 Ce projet est distribué sous la licence MIT. Consultez le fichier [LICENSE](LICENSE) pour les détails.
