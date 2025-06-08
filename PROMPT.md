@@ -46,6 +46,7 @@ Ce dépôt a pour but de créer un **laboratoire de virtualisation furtif, modul
 * [ ] Convertir les expérimentations manuelles en fichiers `.sh`, `.yaml` ou `.conf`
 * [ ] Détecter les répétitions ou incohérences dans la doc
 * [x] Créer une commande CLI unique `orchestrator.sh` ou `manage.sh` pour tout gérer
+* [x] Ajouter la commande `create-alpine-jail` dans `manage.sh`
 * [ ] Aider à maintenir une logique de `modular bootstrap` (chaque brique exécutable seule)
 
 ---
