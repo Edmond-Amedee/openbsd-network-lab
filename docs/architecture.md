@@ -11,4 +11,23 @@ This document illustrates how the FreeBSD host interacts with Alpine jails, a bh
 
 Network traffic can flow between the jails, the virtual machines and the host. The diagram below shows a high-level view of these interactions.
 
-![Architecture diagram](architecture.svg)
+```
+  +-----------------------+
+  |       Alpine VM       |
+  | (kraftkit & Docker)   |
+  +-----------------------+
+          ^            ^
+          |            |
+  +--------------------+----------------------------------+
+  |                   FreeBSD Host                        |
+  |                                                      |
+  |  +-----------------------+  +-----------------------+ |
+  |  |     Alpine jails      |  |       Services        | |
+  |  +-----------------------+  +-----------------------+ |
+  +------------------------------------------------------+
+          |            |
+          v            v
+  +-----------------------+
+  |   DragonFlyBSD VM     |
+  +-----------------------+
+```
