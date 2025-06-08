@@ -1,0 +1,41 @@
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+*~
+
+# Build artifacts
+build/
+dist/
+target/
+*.o
+*.so
+*.a
+*.out
+
+# OS or editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Node modules
+node_modules/
+
+# Virtual environments
+venv/
+.venv/
+
+# Jail and VM directories
+jails/
+vm/
+vms/
+*.img
+*.qcow2
+*.vmdk
+*.iso
+
