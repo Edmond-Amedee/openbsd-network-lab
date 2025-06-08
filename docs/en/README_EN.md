@@ -2,7 +2,7 @@
 
 This guide is designed for beginners and explains step by step how to create and configure an OpenBSD virtual machine. This setup is ideal for starting advanced networking projects, potentially including eBPF, network monitoring, security, and analysis. Each step is clearly and methodically described so everyone can successfully complete the installation.
 
-For an overview of the project's long-term vision and upcoming modules, see [VISION.md](VISION.md).
+For an overview of the project's long-term vision and upcoming modules, see [VISION.md](../VISION.md).
 
 ---
 
