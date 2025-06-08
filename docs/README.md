@@ -12,3 +12,4 @@ This folder contains guides for setting up and using the OpenBSD network lab.
 - [Aperçu de l'architecture](fr/ARCHITECTURE_FR.md) - Vue d'ensemble en français.
 - [Utilitaires et scripts – français](fr/README.md) - Notes rapides sur les scripts fournis.
 - [Utilities and scripts – English](en/README.md) - Short documentation for helper scripts.
+- [Management CLI](../manage.sh) - Simple orchestrator script.
