@@ -4,7 +4,7 @@
 
 Ce guide est conçu spécialement pour les débutants et explique étape par étape comment créer et configurer une machine virtuelle OpenBSD. Cette configuration sera idéale pour démarrer des projets réseau avancés, incluant potentiellement eBPF, surveillance réseau, sécurité et analyse. Chaque étape est décrite clairement et méthodiquement afin que chacun puisse réussir son installation.
 
-Pour un aperçu de la vision long terme du projet et des prochaines étapes, consultez [VISION.md](VISION.md).
+Pour un aperçu de la vision long terme du projet et des prochaines étapes, consultez [VISION.md](../VISION.md).
 
 ---
 
