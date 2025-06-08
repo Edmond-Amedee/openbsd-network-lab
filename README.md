@@ -22,6 +22,7 @@ Ce dépôt fournit un environnement OpenBSD prêt à l'emploi pour tester la sé
 - [Networking & SSL Tutorial – English](docs/en/NETWORK_CHECK_EN.md)
 - [Vision "BSD Stealth Network Lab"](docs/VISION.md)
 - [Architecture Overview](docs/architecture.md)
+- [Aperçu de l'architecture](docs/fr/ARCHITECTURE_FR.md)
 
 ## Licence
 

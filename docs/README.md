@@ -8,5 +8,6 @@ This folder contains guides for setting up and using the OpenBSD network lab.
 - [OpenBSD Networking & SSL Setup Tutorial](en/NETWORK_CHECK_EN.md) - English networking tutorial.
 - [Project Vision](VISION.md) - Long-term project goals.
 - [Architecture Overview](architecture.md) - How FreeBSD, jails and VMs interact.
+- [Aperçu de l'architecture](fr/ARCHITECTURE_FR.md) - Vue d'ensemble en français.
 - [Utilitaires et scripts – français](fr/README.md) - Notes rapides sur les scripts fournis.
 - [Utilities and scripts – English](en/README.md) - Short documentation for helper scripts.
