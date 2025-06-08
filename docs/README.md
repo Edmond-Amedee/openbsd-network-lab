@@ -14,6 +14,7 @@ This folder contains guides for setting up and using the OpenBSD network lab.
 - [Utilitaires et scripts – français](fr/README.md) - Notes rapides sur les scripts fournis.
 - [Utilities and scripts – English](en/README.md) - Short documentation for helper scripts.
 - [Management CLI](../manage.sh) - Simple orchestrator script.
+- [.gitignore](../.gitignore) - Patterns for temporary files, build artifacts, and VM/jail directories.
 
 To quickly install an Alpine jail from the project root, run:
 
