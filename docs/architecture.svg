@@ -8,7 +8,7 @@
   <line x1="160" y1="110" x2="160" y2="150" stroke="#000" marker-end="url(#arrow)"/>
   <rect x="340" y="40" width="150" height="60" fill="#ffeebb" stroke="#000"/>
   <text x="415" y="70" text-anchor="middle">Alpine VM</text>
-  <text x="415" y="85" text-anchor="middle">(kraftkit & Docker)</text>
+  <text x="415" y="85" text-anchor="middle">(kraftkit &amp; Docker)</text>
   <rect x="340" y="150" width="150" height="60" fill="#ffeebb" stroke="#000"/>
   <text x="415" y="180" text-anchor="middle">DragonFlyBSD VM</text>
   <defs>
