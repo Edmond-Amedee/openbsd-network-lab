@@ -45,7 +45,7 @@ Ce dépôt a pour but de créer un **laboratoire de virtualisation furtif, modul
 * [ ] Identifier les opportunités d’optimisation via bhyve, virtio, devfs rulesets, etc.
 * [ ] Convertir les expérimentations manuelles en fichiers `.sh`, `.yaml` ou `.conf`
 * [ ] Détecter les répétitions ou incohérences dans la doc
-* [ ] Créer une commande CLI unique `orchestrator.sh` ou `manage.sh` pour tout gérer
+* [x] Créer une commande CLI unique `orchestrator.sh` ou `manage.sh` pour tout gérer
 * [ ] Aider à maintenir une logique de `modular bootstrap` (chaque brique exécutable seule)
 
 ---
