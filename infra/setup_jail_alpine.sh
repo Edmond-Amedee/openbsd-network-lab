@@ -20,7 +20,6 @@ mkdir -p "$JAIL_ROOT"
 fetch -o "/tmp/${TARBALL}" "$MIRROR"
 
 # 3. Extraction dans l'arborescence du jail
-mkdir -p "$JAIL_ROOT"
 tar -xzf "/tmp/${TARBALL}" -C "$JAIL_ROOT"
 rm "/tmp/${TARBALL}"
 

@@ -23,6 +23,13 @@ Ce dépôt fournit un environnement OpenBSD prêt à l'emploi pour tester la sé
 - [Vision "BSD Stealth Network Lab"](docs/VISION.md)
 - [Architecture Overview](docs/architecture.md)
 - [Aperçu de l'architecture](docs/fr/ARCHITECTURE_FR.md)
+- [Documentation Index](docs/README.md)
+- [Project Guidelines](PROMPT.md)
+
+## Usage
+
+Run `manage.sh create-alpine-jail` to deploy the Alpine jail using the orchestrator.
+
 
 ## Licence
 

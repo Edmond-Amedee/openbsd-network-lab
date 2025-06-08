@@ -1,0 +1,16 @@
+# General
+*.log
+*.tmp
+*.swp
+
+# Build artifacts
+*.o
+*.out
+*.so
+
+# Jail and VM directories
+usr/jails/*
+*.img
+
+# OS generated files
+.DS_Store

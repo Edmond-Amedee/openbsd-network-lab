@@ -9,5 +9,7 @@ This folder contains guides for setting up and using the OpenBSD network lab.
 - [Project Vision](VISION.md) - Long-term project goals.
 - [Architecture Overview](architecture.md) - How FreeBSD, jails and VMs interact.
 - [Aperçu de l'architecture](fr/ARCHITECTURE_FR.md) - Vue d'ensemble en français.
+- [Project Guidelines](../PROMPT.md) - Contributing rules and roadmap.
 - [Utilitaires et scripts – français](fr/README.md) - Notes rapides sur les scripts fournis.
 - [Utilities and scripts – English](en/README.md) - Short documentation for helper scripts.
+- `manage.sh` - Basic orchestrator script for jails and VMs.
